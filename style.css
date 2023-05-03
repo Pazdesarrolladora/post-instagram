@@ -1,0 +1,99 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.post {
+    margin: 30px auto;
+    max-width: 450px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+ 
+  .titulo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+  
+  .part1 {
+    font-size: 25px;
+    margin-right: 10px;
+  }
+  
+  .part2 {
+    display: flex;
+    flex-direction: column;  
+    margin-right: 290px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  
+  .p1 {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+  }
+  
+  .p2 {
+    margin: 4px 0 0 0;
+    padding: 0;
+    font-size: 12px;
+  }
+  
+  
+  .part3 {
+    font-size: 25px;
+    margin-left: 10px;
+  }
+  
+ 
+  
+  .foto img {
+    width: 450px;
+    height: auto;
+  }
+  
+  
+  .emojis {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+  
+  .emojis0 {
+    font-size: 25px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  .emojis2 {
+    font-size: 25px;
+    margin-left: auto;
+  }
+  
+   .megusta {
+    font-size: 15px;
+  }
+  
+  .parrafo {
+    margin-top: 10px;
+    line-height: 1.5;
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+  
+  
+  .ver-mas {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 0.8rem;
+    color: #999;
+  }
+  
